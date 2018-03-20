@@ -1,0 +1,13 @@
+[core]
+[user]
+	name = Brian Shee
+	email = brian9shee@gmail.com
+[push]
+	default = matching
+[alias]
+  st = status -s
+  ci = commit
+  co = checkout
+  br = branch
+  cm = commit -m
+  cma = commit -am
